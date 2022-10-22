@@ -80,7 +80,7 @@ body {
 }
 
 .calc-btn:last-child:hover {
-    background-color: inherit;
+    background-color: #bce08f;
     color: inherit;
 }
 .calc-btn:hover {
