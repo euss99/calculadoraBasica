@@ -1,1 +1,8 @@
 # calculadoraBasica
+
+<h3> Calculadora básica <h3>
+
+- Creación de una calculadora básica que puede hacer sumas, restas, multiplicaciones y divisiones.
+- Este proyecto me ayudó a practicar mis habilidades de HTML y CSS, pero más que nada JavaScript.
+
+<img align='center' src="https://imagizer.imageshack.com/img923/8238/XDbac4.gif" width="200" heigth="350">
