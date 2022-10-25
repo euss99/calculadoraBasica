@@ -6,5 +6,5 @@
 - Este proyecto me ayudó a practicar mis habilidades de HTML y CSS, pero más que nada JavaScript.
 
 <p align="center"> 
-    <img  src="https://imagizer.imageshack.com/img923/8238/XDbac4.gif" width="200" heigth="350">
+    <img  src="https://imagizer.imageshack.com/img923/8238/XDbac4.gif" width="350" heigth="500">
 </p>
