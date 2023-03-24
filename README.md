@@ -32,5 +32,5 @@ Este proyecto está bajo la licencia MIT. Puedes leer más en el archivo LICENSE
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia sobre este proyecto, puedes enviarme un correo electrónico a [euss99@hotmail.com]. Gracias por tu interés en mi proyecto de calculadora.
+Si tienes alguna pregunta o sugerencia sobre este proyecto, puedes enviarme un correo electrónico a `euss99@hotmail.com`. Gracias por tu interés en mi proyecto de calculadora.
 
